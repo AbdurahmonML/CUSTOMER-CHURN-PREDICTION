@@ -33,7 +33,7 @@ I will explore the data and try to answer some questions like:
 * VotingClassifier
 
 #### Tools:
-pandas, numpy, matplotlib, sklearn
+pandas, numpy, matplotlib, sklearn and others
 
 #### Result:
 You can see my work more briefly in customer_churn.ipynb notebook.
